@@ -1,1 +1,1 @@
-data/* binary
+data/b.img filter=lfs diff=lfs merge=lfs -text
